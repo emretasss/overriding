@@ -83,3 +83,7 @@ Consider an employee management software for an organization, let the code has a
  
                 Manager's salary : 30000
                 Clerk's salary : 20000
+
+
+
+<img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" height="300"  ><img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  align="right" height="300">
