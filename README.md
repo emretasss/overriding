@@ -2,7 +2,7 @@
 overriding in java 
 
 
-overriding bank exercise; 
+overriding bank exercise
 
 Let's create an inherited structure first.
 Then let's create student credit, teacher credit and agriculture credit.
