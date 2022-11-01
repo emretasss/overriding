@@ -10,7 +10,7 @@ then let's make these polymorphisms
 
 ![OverridingVsOverloading](https://user-images.githubusercontent.com/75886362/194964286-980b91bf-ef29-479a-b416-315b5c4e31bb.png)
 
-
+   
 ### When to apply Method Overriding ?(with example)
 
 Overriding and Inheritance : Part of the key to successfully applying polymorphism is understanding that the superclasses and subclasses form a hierarchy which moves from lesser to greater specialization. Used correctly, the superclass provides all elements that a subclass can use directly. It also defines those methods that the derived class must implement on its own. This allows the subclass the flexibility to define its methods, yet still enforces a consistent interface. Thus, by combining inheritance with overridden methods, a superclass can define the general form of the methods that will be used by all of its subclasses.
